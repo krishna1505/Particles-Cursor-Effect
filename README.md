@@ -18,7 +18,7 @@ A fun and interactive **particles cursor** effect that creates colorful particle
 
 Here is a live preview of the project:
 
-[Demo Link (if hosted)](https://yourdemo.com)
+[Demo Link (if hosted)](https://krishna1505.github.io/Particles-Cursor-Effect/)
 
 ## How It Works
 1. **Canvas Setup:** The canvas fills the entire screen and is positioned absolutely to cover the entire viewport.
@@ -30,4 +30,4 @@ Here is a live preview of the project:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/particles-cursor.git
+   git clone [https://github.com/krishna1505/Particles-Cursor-Effect]
